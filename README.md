@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this analysis, we leverage IBM Watsonx AI model integrated with LangChain to extract meaningful insights from a student performance dataset. This integration allows us to interact with the dataset using natural language queries, making data analysis and visualization intuitive and efficient.
+In this analysis, Developed an AI agent using IBM Watsonx AI model integrated with LangChain to extract meaningful insights from a student performance dataset. This integration allows us to interact with the dataset using natural language queries, making data analysis and visualization intuitive and efficient.
 
 ## Code Explanation and Concepts
 
